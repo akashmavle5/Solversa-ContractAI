@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Solversa ContractAI",
+  "description": "An AI-powered application to upload, search, and generate contracts using Gemini. It features a Retrieval-Augmented Generation (RAG) layer for intelligent contract analysis.",
+  "requestFramePermissions": []
+}
